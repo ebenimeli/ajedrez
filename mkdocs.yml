@@ -17,7 +17,7 @@ theme:
     font:
         text: Roboto
         code: Roboto Mono
-    logo: 'images/piezas_ajedrez.png'
+    logo: 'images/caballo_ajedrez.png'
     features:
       - content.code.annotate
 plugins:
