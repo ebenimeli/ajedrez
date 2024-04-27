@@ -4,6 +4,8 @@ nav:
 - 'El ajedrez':
   - 'Introducción':
     - '¿Qué es el ajedrez?': 'contents/intro/ajedrez.md'
+- 'Recursos':
+  - 'Libros': 'contents/recursos/libros.md'
 - 'More':
   - 'Blog': 'https://www.esferatic.com'
   - 'Instagram': 'https://www.instagram.com/esferatic'
