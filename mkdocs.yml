@@ -19,7 +19,7 @@ theme:
     font:
         text: Roboto
         code: Roboto Mono
-    logo: 'images/caballo_ajedrez.png'
+    logo: 'images/chess_bw.png'
     features:
       - content.code.annotate
 plugins:
